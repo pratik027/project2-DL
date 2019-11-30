@@ -7,8 +7,11 @@
 # Guide to use your own dataset:
 
 ### 1 Text encoding:
+
 pre trained encoder = https://drive.google.com/file/d/0B0ywwgffWnLLZUt0UmQ1LU1oWlU/view
+
 how to encode = https://github.com/hanzhanggit/StackGAN/blob/master/demo/flowers_demo.sh
 
 ### 2 Preprocess images with below python script:
+
 https://github.com/hanzhanggit/StackGAN/blob/master/misc/preprocess_flowers.py
